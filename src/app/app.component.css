@@ -1,0 +1,14 @@
+.mat-typography {
+  width: 50%; text-align: center; margin: auto; height: 50%; padding: 10% 0;
+}
+.mat-typography h1 {
+  font: 600 48px/64px Roboto, "Helvetica Neue", sans-serif;
+  letter-spacing: normal;
+  margin: 0;
+}
+.button-left {
+  margin-right: 5px;
+}
+.button-right {
+  margin-left: 5px;
+}
