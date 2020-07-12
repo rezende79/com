@@ -1,5 +1,5 @@
 ---
 deployment:
     tasks:
-        - export DEPLOYPATH=/home/rezeskwk/public_html
+        - export DEPLOYPATH=/home/rezeskwk/public_html/com
         - /bin/cp -r * $DEPLOYPATH
